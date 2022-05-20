@@ -85,9 +85,8 @@ Explanation
 
 # Resume <a id=3></a>
 
-See my [Resume](/Retzio Gredig Resume.pdf)
+<i> See my [Resume](/Resume.pdf) <i>
  
- Retzio Gredig Resume.pdf
  
 <hr>
 
