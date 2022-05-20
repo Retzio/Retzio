@@ -73,10 +73,12 @@ Explanation
 ## Python<a id=2.2></a>
 ### Python GLPK Solver
 
-I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings NHL fatasy lineup contest you are a given a set of constrainst to build a fantasy team. To view all the rules, points, and contraints, see [DraftKings](https://www.draftkings.com/help/rules/3). Using GLPK I created the best posiible team based each player's current season stats. Becuase this was just for fun and based on a contest that had alreadt happened, I created a second lineup for what the best possible team would have been based on the games for the contest.
+I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings NHL fatasy lineup contest you are a given a set of constrainst to build a fantasy team. To view all the rules, points, and contraints, see [DraftKings](https://www.draftkings.com/help/rules/3). Using GLPK I created the best posiible team based each player's current season stats. Becuase this was just for fun and based on a contest that had alreadt happened, I created a second lineup for what the best possible team would have been based on the games for the contest. The results for the predicted and actual optimal can be seen below.
 
 To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team)
 
+![Screen Shot 2022-05-19 at 10 11 08 PM](https://user-images.githubusercontent.com/105741175/169449698-fd577d19-55e8-4cb1-aaeb-0644400676e9.png)
+![Screen Shot 2022-05-19 at 10 10 48 PM](https://user-images.githubusercontent.com/105741175/169449718-e184437b-9219-42f2-a51a-65eb48a9a59c.png)
 
 
 <br>
