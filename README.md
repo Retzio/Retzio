@@ -10,7 +10,6 @@
 * [Samples of my work](#2)<br>
   * [Database Project](#2.1)<br>
   * [Python](#2.2)<br>
-  * [R](#2.3)<br>
 * [Resume](#3)<br>
     * [Sales Expierence](#3.1)<br>
     * [Skills](#3.2)<br>
@@ -41,6 +40,9 @@ Happiness for me is found in the endless learning and growth attained by living 
 
 ## SQL Database<a id=2.1></a>
 Over the course of a year I built this database
+
+<hr>
+
 ### OLTP database
 png of erd 
 Click here for code 
@@ -70,8 +72,9 @@ Explanation
 
 ## Python<a id=2.2></a>
 ### Python GLPK Solver
-### Python Analytics Menu
-## R<a id=2.3></a>
+
+
+
 
 
 <br>
