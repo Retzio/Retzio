@@ -85,15 +85,10 @@ Explanation
 
 # Resume <a id=3></a>
 
-[Resume](/Resume.pdf)
- 
-T2
-[Resume](/Retzio Gredig Resume.pdf)
+[Resume](Resume.pdf)
 
 
-[Resume](/RetzioResume.pdf)
-
-
+https://github.com/Retzio/Resume/blob/main/Retzio%20Gredig%20Resume.pdf
 
 <hr>
 
