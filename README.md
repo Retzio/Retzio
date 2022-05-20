@@ -84,6 +84,7 @@ Explanation
 
 
 # Resume <a id=3></a>
+<i> See my [Resume]
 <hr>
 
 
