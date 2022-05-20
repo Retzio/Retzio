@@ -85,7 +85,7 @@ Explanation
 
 # Resume <a id=3></a>
 
-[Resume](Retzio Gredig Resume.pdf](https://github.com/Retzio/Resume/blob/main/Retzio%20Gredig%20Resume.pdf)
+[Resume](https://github.com/Retzio/Resume/blob/main/Retzio%20Gredig%20Resume.pdf)
 
 
 
