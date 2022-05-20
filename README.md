@@ -1,13 +1,12 @@
 <a name="top"></a>
 
-
 # Weclome! This is a little about me and a sample of my work.
 <hr>
 
 ## Table of Contents<a id="Top"></a>
 
 
-* [About Me](#1)
+* [About Me](#1)<br>
 * [Samples of my work](#2)<br>
   * [Database Project](#2.1)<br>
   * [Python](#2.2)<br>
@@ -15,6 +14,7 @@
 * [Resume](#3)<br>
     * [Sales Expierence](#3.1)<br>
     * [Skills](#3.2)<br>
+    * [Education](#3.3)<br>
   
 <br>
 <hr>
@@ -62,7 +62,11 @@ Explanation
 
 <hr>
 <br>
+
+
 <hr>
+
+
 
 ## Python<a id=2.2></a>
 ### Python GLPK Solver
@@ -72,16 +76,18 @@ Explanation
 
 <br>
 <br>
+
+##### [Back to Top](#Top)
+
 <hr>
+
+
 
 # Resume <a id=3></a>
 <hr>
 
-### Sales Expierence <a id=3.1></a>
 
-
-
-### Skills <a id=3.2></a>
+## Skills <a id=3.1></a>
 <table>
   <tr>
     <th>Tools and Technical Skills</th>
@@ -132,7 +138,14 @@ Explanation
    </td>
  </tr>
 </table>
-### Education
+
+## Sales Expierence<a id=3.2></a>
+
+### Key for Business
+  
+### Caliber
+
+## Education<a id=3.3></a>
 ####  Univeristy of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2022
 
@@ -144,47 +157,3 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 
 
-
-
-
-
-
-
-
-
-
-## Sales Expeirence
-
-Key for Business 
-
-
-
-
-
-
-About Me 
-
-My Goal
-
-I find happiness
-
-In my freetime I like to
-    Ski 
-    Play Chess
-    Hike
-    Find new restruants to eat at
-
-Saples of my Coding expierence 
-    SQL
-    Python
-    R
-    VB.Net
-
-Resume 
-
-
-Expierence 
-
-Skills 
-
-Education
