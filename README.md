@@ -43,17 +43,20 @@ Happiness for me is found in the endless learning and growth attained by living 
 <hr>
 
 ## SQL Database<a id=2.1></a>
-Over the course of a year I built this database
+This Database is a mock database ___
+To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](MapleEstateInvestments_Database)
 
 <hr>
 
 ### ERD of Database
-
+Here is a diagram of the database.
+![ERD_MapleEstInv](https://user-images.githubusercontent.com/105741175/169920126-8e87ba49-6122-492a-b163-367658509f5b.png)
 
 <hr>
 
 ### Create DBO
 Click here to view the create of the DBO
+
 
 <hr>
 
