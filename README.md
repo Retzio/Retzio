@@ -1,7 +1,10 @@
-<a id="Top"></a>
+
+
 
 # Weclome! This is a little about me and a sample of my work. 
 <hr>
+
+<a id="Top"></a>
 
 ## Table of Contents
 
@@ -97,8 +100,8 @@ To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/R
     <th><b>After</b></th>
   </tr>
   <tr>
-    <td><img src= "https://user-images.githubusercontent.com/105741175/169449698-fd577d19-55e8-4cb1-aaeb-0644400676e9.png" height="250" width="auto"></td>
-    <td><img src= "https://user-images.githubusercontent.com/105741175/169449718-e184437b-9219-42f2-a51a-65eb48a9a59c.png" height="250" width="auto"></td>
+    <td><img src= "https://user-images.githubusercontent.com/105741175/169449698-fd577d19-55e8-4cb1-aaeb-0644400676e9.png" height="auto" width="auto"></td>
+    <td><img src= "https://user-images.githubusercontent.com/105741175/169449718-e184437b-9219-42f2-a51a-65eb48a9a59c.png" height="auto" width="auto"></td>
   </tr>
   <tr>
 </table>
@@ -118,6 +121,9 @@ To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/R
 Here is a copy of my
 [Resume](https://github.com/Retzio/Resume/blob/main/Retzio%20Gredig%20Resume.pdf)
 
+## Sales Expierence<a id=3.1></a>
+
+## Skills <a id=3.2></a>
 
 ## Education<a id=3.3></a>
 ####  Univeristy of Denver, Daniels College of Business
