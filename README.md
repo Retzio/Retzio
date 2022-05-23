@@ -44,7 +44,7 @@ Happiness for me is found in the endless learning and growth attained by living 
 
 ## SQL Database<a id=2.1></a>
 This Database is a mock database ___
-To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](MapleEstateInvestments_Database)
+To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](https://github.com/Retzio/MapleEstateInvestments_Database)
 
 <hr>
 
@@ -52,21 +52,12 @@ To see the full project including the build script, VB.Net forms, Power BI dashb
 Here is a diagram of the database.
 ![ERD_MapleEstInv](https://user-images.githubusercontent.com/105741175/169920126-8e87ba49-6122-492a-b163-367658509f5b.png)
 
-<hr>
 
-### Create DBO
-Click here to view the create of the DBO
-
-
-<hr>
-
-### Querries
-Click here to view the create of the DBO
 
 <hr>
 
 ### VB.NET
-show the vb juice
+Exp _________
 
 
 https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94-aabc-191b5b193e67.mp4
