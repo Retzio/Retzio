@@ -44,8 +44,7 @@ Over the course of a year I built this database
 <hr>
 
 ### ERD of Database
-png of erd 
-Click here for code 
+
 
 <hr>
 
@@ -62,15 +61,20 @@ Click here to view the create of the DBO
 ### VB.NET
 show the vb juice
 
+
+https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94-aabc-191b5b193e67.mp4
+
+
 <hr>
 
-### .NET Forms
-show the forms
 
-<hr>
 
 ### Power BI 
 Explanation
+
+
+![PowerBI](https://user-images.githubusercontent.com/105741175/169918711-7b4952f0-0b93-4636-9632-166fb0b41d6e.png)
+
 
 <hr>
 <br>
