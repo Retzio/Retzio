@@ -1,11 +1,11 @@
 Retzio Gredig
-
+<a id="Top"></a>
 
 # Weclome! This is a little about me and a sample of my work. 
 
 <hr>
 
-<a id="Top"></a>
+
 
 ## Table of Contents
 
