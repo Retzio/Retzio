@@ -27,7 +27,7 @@ I plan to work in a career where I can combine my skills in sales, technical ana
 
 Happiness for me is found in the endless learning and growth attained by living a life of curiosity, abundance, alignment, and co-creation.
 
-##### In my freetime I like to
+In my freetime I like to
 * Ski 
 * Play chess
 * Hike
