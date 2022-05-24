@@ -189,8 +189,6 @@ Here is a copy of my
 
 ## Sales Expierence<a id=3.2></a>
 
-## Sales Expierence<a id=3.2></a>
-
 #### Clear home December 2020 – Present
 *Market Development and Sales Training Specialist: Contracted by Amazon*
 
@@ -201,23 +199,25 @@ Here is a copy of my
 * Presented Amazon’s Key for Business technology to property management teams, board members, and councils
 * Piloted the England expansion and establish 10% of the annual new accounts in two months
 
+##
 
-*Territory Sales Manager: Contracted by Amazon* 
+*Territory Sales Manager: Contracted by Amazon*  
 <div dir="rtl"> Phoenix, Arizona </div>
 
 * Grew and managed a team of 8 people, developing personal and sales skills
 * Developed leadership and sales influence skills, learned how to effectively recruit, hire, and train employees
 * Led a team that sold 33,597 units with 279 commercial B2B accounts, and placed 2nd for quarter 3 of 2021
 
+##
 *Sales Specialist for Contract Negotiations: Contracted by Door Dash* 
 <div dir="rtl"> Los Angeles, California </div>
 
 * As a top performer, was chosen to demo our team’s sales volume for Door Dash during contract negotiation
 * Worked with small business owners to onboard them to Door Dash
 
+##
 
 *Outside Sales Representative: Contracted by Amazon*
-
 <div dir="rtl"> Denver, Colorado </div>
 
 * Expanded my client acquisition and retention skills in B2B by conducting the full sales cycle for multiple accounts
