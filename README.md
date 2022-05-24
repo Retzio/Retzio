@@ -137,61 +137,66 @@ Here is a copy of my
 
 <table>
   <tr>
-    <th>Tools and Technical Skills</th>
-    <th>Certifications</th>
+    <th>Coding Languages</th>
+    <th>Programs</th>
   </tr>
   <tr>
     <td>
      <ul>
         <li>SQL</li>
-        <li>Visual Basic</li>
-        <li>Excel</li>
-        <li>Microsoft SQL Server Management Studio</li>
-        <li>Microsoft Visual Studio</li>
-        <li>Tableau</li>
-        <li>Trello</li>
+        <li>Python</li>
+        <li>R</li>
+        <li>VBA</li>
+        <li>VB.Net</li>
       </ul>
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">Microsoft Expert Access 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/cc990015-1ddf-42e1-8924-71b24d236c37/public_url">Microsoft Associate Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
-       <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
+        <li>Microsoft SQL Server Management Studio</li>
+        <li>Microsoft Visual Studio</li>
+        <li>Tableau</li>
+        <li>Power BI</li>
+        <li>SPSS Modeler</li>
+        <li>JMP</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
-    <th>Other Skills</th>
+    <th>Data Anlysis and Presntation</th>
+    <th>Micrsoft Office Certifications</th>
  </tr>
  <tr>
    <td>
      <ol>
-        <li>Responsibility</li>
-        <li>Learner</li>
-        <li>Discipline</li>
-        <li>Developer</li>
-        <li>Achiever</li>
+        <li>Inferential statistics</li>
+        <li>Prediction</li>
+        <li>Segmentation</li>
+        <li>Classification</li>
+        <li>Text analytics</li>
+        <li>Analytic visualization</li>
+        <li>Data storytelling</li>
+        <li>Business-technical interpretation and translation</li>
      </ol>
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
-       <li>Problem Solving</li>
+        <li>Access</li>
+        <li>Excel</li>
+        <li>PowerPoint</li>
+        <li>Word</li>
      </ul>
    </td>
  </tr>
 </table>
 
 
+![image](https://user-images.githubusercontent.com/105741175/170077018-0ebd5636-dddc-4f57-8921-1d669e8fd0d6.png)
+
+
 ## Sales Expierence<a id=3.2></a>
 
 #### Clear home December 2020 – Present
-*Market Development and Sales Training Specialist: Contracted by Amazon*
-
+Market Development and Sales Training Specialist: Contracted by Amazon
 <div dir="rtl"> London, England </div>
 
 * Conducted R&D and Piloted Amazon’s expansion of the Key for Business program into England
@@ -201,7 +206,7 @@ Here is a copy of my
 
 ##
 
-*Territory Sales Manager: Contracted by Amazon*  
+Territory Sales Manager: Contracted by Amazon
 <div dir="rtl"> Phoenix, Arizona </div>
 
 * Grew and managed a team of 8 people, developing personal and sales skills
@@ -209,7 +214,7 @@ Here is a copy of my
 * Led a team that sold 33,597 units with 279 commercial B2B accounts, and placed 2nd for quarter 3 of 2021
 
 ##
-*Sales Specialist for Contract Negotiations: Contracted by Door Dash* 
+Sales Specialist for Contract Negotiations: Contracted by Door Dash
 <div dir="rtl"> Los Angeles, California </div>
 
 * As a top performer, was chosen to demo our team’s sales volume for Door Dash during contract negotiation
@@ -217,7 +222,7 @@ Here is a copy of my
 
 ##
 
-*Outside Sales Representative: Contracted by Amazon*
+Outside Sales Representative: Contracted by Amazon
 <div dir="rtl"> Denver, Colorado </div>
 
 * Expanded my client acquisition and retention skills in B2B by conducting the full sales cycle for multiple accounts
@@ -230,8 +235,7 @@ strategies, which reduced time spent by 60% and increased conversion rates by 25
 
 
 
-*D2D Sales Representative*
-
+D2D Sales Representative
 <div dir="rtl"> Nashville, Tennessee </div>
 
 * Sold 106 accounts in 3 months and achieved highest completion rate of 87% in the office
@@ -246,6 +250,12 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <hr>
 
 ##### [Back to Top](#Top)
+
+
+
+
+
+
 
 
 
