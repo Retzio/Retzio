@@ -1,4 +1,3 @@
-Retzio Gredig
 <a id="Top"></a>
 
 # Weclome! This is a little about me and a sample of my work. 
@@ -23,13 +22,12 @@ Retzio Gredig
 <hr>
 
 # About Me<a id=1></a>
-<hr>
 
 I plan to work in a career where I can combine my skills in sales, technical analysis, and operational execution to achieve differentiated results in sales and product development.
 
 Happiness for me is found in the endless learning and growth attained by living a life of curiosity, abundance, alignment, and co-creation.
-## 
-#### In my freetime I like to
+
+##### In my freetime I like to
 * Ski 
 * Play chess
 * Hike
@@ -42,8 +40,9 @@ Happiness for me is found in the endless learning and growth attained by living 
 # Samples of my work<a id=2></a>
 <hr>
 
-## SQL Database<a id=2.1></a>
+## SQL Database <a id=2.1></a>
 
+### Description
 This database I built is for a mock company called Maple Estate Investments. The company is a realestate brokerage that specializes in growing and managing realestate portfolios for investors. There are a few things that make Maple Estate Investments so unique. The company tracks the MLS and off market deals for any properties that good capitilazation rates and cash flow potential for investing. Maple Estate Investments also moniter investors current portfolio making sure all properties have good returns. If a home isn't performing well, they want to diversify, or they want to grow their portfoliuo we are able to conduct any transactions needed. The brokerage also tracks all current loans to factor in interest payments. If the investor qualifies for better laons based on thier goals we work heavily with loan officers to help them get the best possible loans. We meet with our investors regularly to discuss the current goals for theyre portfolio and risk they are willing to take, and based on those factors we take any needed actions to help them achieve thos goals as well.
 
 With all this informnation being analyzed and recorded, Maple Estate Investments needs a great database to store analyze all the data. That is why I built Maple_Estate_Investments_Database. I've included a build script for the database as well as views, stored procedures, and user-defined functions in Microsoft SQL Server Management Studios. I created forms and reports for the database in Microsoft Visual Studios to help track the database and add any data entries as needed. Lastly I created a dashboard for management to track ongoing sales and other inportant metrics in Power BI.
@@ -102,6 +101,7 @@ I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings 
 
 To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team)
 
+
 <table>
   <tr>
     <th><b>Before</b></th>
@@ -117,20 +117,19 @@ To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/R
 
 
 
-<br>
+<hr>
 <br>
 
 ##### [Back to Top](#Top)
-
 <hr>
 
 
 
 # Resume <a id=3></a>
-Here is a copy of my
+For a copy of my resume, see
 [Resume](https://github.com/Retzio/Resume/blob/main/Retzio_Gredig-Resume.pdf)
 
-
+<hr>
 
 ## Skills <a id=3.1></a>
 
@@ -189,6 +188,7 @@ Here is a copy of my
  </tr>
 </table>
 
+<hr>
 
 ![image](https://user-images.githubusercontent.com/105741175/170077018-0ebd5636-dddc-4f57-8921-1d669e8fd0d6.png)
 
