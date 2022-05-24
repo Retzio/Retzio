@@ -43,13 +43,20 @@ Happiness for me is found in the endless learning and growth attained by living 
 <hr>
 
 ## SQL Database<a id=2.1></a>
-This Database is a mock database ___
+
+This database I built is for a mock company called Maple Estate Investments. The company is a realestate brokerage that specializes in growing and managing realestate portfolios for investors. There are a few things that make Maple Estate Investments so unique. The company tracks the MLS and off market deals for any properties that good capitilazation rates and cash flow potential for investing. Maple Estate Investments also moniter investors current portfolio making sure all properties have good returns. If a home isn't performing well, they want to diversify, or they want to grow their portfoliuo we are able to conduct any transactions needed. The brokerage also tracks all current loans to factor in interest payments. If the investor qualifies for better laons based on thier goals we work heavily with loan officers to help them get the best possible loans. We meet with our investors regularly to discuss the current goals for theyre portfolio and risk they are willing to take, and based on those factors we take any needed actions to help them achieve thos goals as well.
+
+With all this informnation being analyzed and recorded, Maple Estate Investments needs a great database to store analyze all the data. That is why I built Maple_Estate_Investments_Database. I've included a build script for the database as well as views, stored procedures, and user-defined functions in Microsoft SQL Server Management Studios. I created forms and reports for the database in Microsoft Visual Studios to help track the database and add any data entries as needed. Lastly I created a dashboard for management to track ongoing sales and other inportant metrics in Power BI.
+
+
 To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](https://github.com/Retzio/MapleEstateInvestments_Database)
 
 <hr>
 
-### ERD of Database
-Here is a diagram of the database.
+### Entity Relationship Diagram (ERD) for Database
+To view the build script for Maples Estate Investment's Database see
+
+
 ![ERD_MapleEstInv](https://user-images.githubusercontent.com/105741175/169920126-8e87ba49-6122-492a-b163-367658509f5b.png)
 
 
