@@ -137,7 +137,7 @@ For a copy of my resume, see
 <table>
   <tr>
     <th>Coding Languages</th>
-    <th>Programs</th>
+    <th>Tools</th>
   </tr>
   <tr>
     <td>
@@ -149,14 +149,12 @@ For a copy of my resume, see
         <li>VB.Net</li>
       </ul>
     </td>
-    <td>
+    <td  span="10">
      <ul>
-        <li>Microsoft SQL Server Management Studio</li>
-        <li>Microsoft Visual Studio</li>
-        <li>Tableau</li>
-        <li>Power BI</li>
-        <li>SPSS Modeler</li>
-        <li>JMP</li>
+        <li>Access</li>
+        <li>Excel</li>
+        <li>PowerPoint</li>
+        <li>Word</li>  
       </ul>
     </td>
   </tr>
@@ -167,6 +165,16 @@ For a copy of my resume, see
  <tr>
    <td>
      <ul>
+        <li>Microsoft SQL Server Management Studio</li>
+        <li>Microsoft Visual Studio</li>
+        <li>Tableau</li>
+        <li>Power BI</li>
+        <li>SPSS Modeler</li>
+        <li>JMP</li>
+     </ul>
+   </td>
+   <td>
+     <ul>
         <li>Inferential statistics</li>
         <li>Prediction</li>
         <li>Segmentation</li>
@@ -175,14 +183,6 @@ For a copy of my resume, see
         <li>Analytic visualization</li>
         <li>Data storytelling</li>
         <li>Business-technical interpretation and translation</li>
-     </ul>
-   </td>
-   <td>
-     <ul>
-        <li>Access</li>
-        <li>Excel</li>
-        <li>PowerPoint</li>
-        <li>Word</li>
      </ul>
    </td>
  </tr>
