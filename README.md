@@ -228,7 +228,7 @@ strategies, which reduced time spent by 60% and increased conversion rates by 25
 ##
 #### Caliber Smart June 2020 – September 2020
 
-<div dir="lft"> D2D Sales Representative <div dir="rtl"> Nashville, Tennessee </div>
+<div dir="lft"> D2D Sales Representative: Contracted by Dish Network and T-Mobile <div dir="rtl"> Nashville, Tennessee </div>
 
 * Sold 106 accounts in 3 months and achieved highest completion rate of 87% in the office
 * Achieved top rookie status both locally and nationally
