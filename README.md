@@ -66,9 +66,7 @@ To view the build script for Maples Estate Investments' Database, see [BuildMapl
 ### Microsoft Visual Studios VB.Net Forms and Reports 
 The forms and reports were built in Microsoft Visual Studios. The forms were built on VB.Net framework to create a platform for the brokers to access the data and add any needed data entries. The reports were created for the brokers to monitor data that is constantly being updated such as the MLS or loan rates for the investors. To view a more in-depth explanation of each of the reports and download the solutions files for Visual Studios, see 
 [VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments).
-
-Unmute the audio to hear further explanation in the video.
-
+(Unmute for narration)
 https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94-aabc-191b5b193e67.mp4
 
 
