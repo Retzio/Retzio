@@ -140,7 +140,7 @@ For a copy of my resume, see
     <th>Micrsoft Office Specialist Certifications</th>
   </tr>
   <tr>
-    <td>
+   <td valign="top">
      <ul>
         <li>SQL</li>
         <li>Python</li>
@@ -149,7 +149,7 @@ For a copy of my resume, see
         <li>VB.Net</li>
       </ul>
     </td>
-    <td>
+   <td valign="top">
      <ul>
         <li>Access</li>
         <li>Excel</li>
@@ -163,7 +163,7 @@ For a copy of my resume, see
     <th>Data Anlysis and Presntation</th>
  </tr>
  <tr>
-   <td>
+   <td valign="top">
      <ul>
         <li>Microsoft SQL Server Management Studio</li>
         <li>Microsoft Visual Studio</li>
@@ -234,7 +234,8 @@ strategies, which reduced time spent by 60% and increased conversion rates by 25
 * Achieved top rookie status both locally and nationally
 * Mastered pitching, tonality, and subtle sales techniques through the rawest form of sales
 
-
+<hr>
+ 
 ## Education<a id=3.3></a>
 ####  Univeristy of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2022
