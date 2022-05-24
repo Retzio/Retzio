@@ -49,12 +49,12 @@ This database I built is for a mock company called Maple Estate Investments. The
 With all this information being recorded, stored, and analyzed, Maple Estate Investments needs a database. That is why I built Maple_Estate_Investments_Database. I've included a build script for the database as well as views, stored procedures, and user-defined functions in Microsoft SQL Server Management Studios. I created forms and reports for the database in Microsoft Visual Studios to help track the database and add data entries as needed. Lastly, I created a dashboard for management to track ongoing sales and other important metrics in Power BI.
 
 
-To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](https://github.com/Retzio/MapleEstateInvestments_Database)
+To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](https://github.com/Retzio/MapleEstateInvestments_Database).
 
 <hr>
 
 ### Entity Relationship Diagram (ERD) for Database
-To view the build script for Maples Estate Investments' Database, see [BuildMapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/blob/main/BuildMapleEstateInvestments.sql)
+To view the build script for Maples Estate Investments' Database, see [BuildMapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/blob/main/BuildMapleEstateInvestments.sql).
 
 
 ![ERD_MapleEstInv](https://user-images.githubusercontent.com/105741175/169920126-8e87ba49-6122-492a-b163-367658509f5b.png)
@@ -64,8 +64,8 @@ To view the build script for Maples Estate Investments' Database, see [BuildMapl
 <hr>
 
 ### Microsoft Visual Studios VB.Net Forms and Reports 
-The forms and reports were built in Microsoft Visual Studios. The forms were built on VB.Net framework to create a platform for the brokers to access the data and add any needed data entries. The reports were created for the brokers to monitor data that is constantly being updated such as the MLS or loan rates for the investors. To view a more in-depth explanation of each of the reports and download the solutions files for Visual Studios see 
-[VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments)
+The forms and reports were built in Microsoft Visual Studios. The forms were built on VB.Net framework to create a platform for the brokers to access the data and add any needed data entries. The reports were created for the brokers to monitor data that is constantly being updated such as the MLS or loan rates for the investors. To view a more in-depth explanation of each of the reports and download the solutions files for Visual Studios, see 
+[VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments).
 
 Unmute the audio to hear further explanation in the video.
 
@@ -78,10 +78,10 @@ https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94
 
 ### Power BI Dashboard
 The dashboard for Maple Estate Investments' database was built in Power BI and was created for management to view inportant metrics such as sales.
-To view the dashboard see
-[Maple Estate Investments Dashboard](https://app.powerbi.com/links/e7TcE2xLZZ?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288&pbi_source=linkShare)
-To download the .pbix view 
-[PowerBI_Dashboard_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/PowerBI_Dashboard_MapleEstateInvestments)
+To view the dashboard, see
+[Maple Estate Investments Dashboard](https://app.powerbi.com/links/e7TcE2xLZZ?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288&pbi_source=linkShare).
+To download the .pbix, see 
+[PowerBI_Dashboard_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/PowerBI_Dashboard_MapleEstateInvestments).
 
 
 ![PowerBI](https://user-images.githubusercontent.com/105741175/169918711-7b4952f0-0b93-4636-9632-166fb0b41d6e.png)
@@ -100,7 +100,7 @@ To download the .pbix view
 
 I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings NHL fatasy lineup contest you are a given a set of constrainst to build a fantasy team. To view all the rules, points, and contraints, see [DraftKings](https://www.draftkings.com/help/rules/3). Using GLPK I created the best posiible team based each player's current season stats. Becuase this was just for fun and based on a contest that had alreadt happened, I created a second lineup for what the best possible team would have been based on the games for the contest. The results for the predicted and actual optimal can be seen below.
 
-To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team)
+To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team).
 
 
 <table>
@@ -128,7 +128,7 @@ To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/R
 
 # Resume <a id=3></a>
 For a copy of my resume, see
-[Resume](https://github.com/Retzio/Resume/blob/main/Retzio_Gredig-Resume.pdf)
+[Resume](https://github.com/Retzio/Resume/blob/main/Retzio_Gredig-Resume.pdf).
 
 <hr>
 
