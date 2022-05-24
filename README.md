@@ -101,7 +101,46 @@ I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings 
 
 To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team).
 
+<details>
+  <summary><b><i>Click here</i> to see the code. Paste into your vimrc to use it!</b></summary>
+ 
+```python
+#Budget Constraint
+model.cons_budget = pe.Constraint(expr = sum([skater_points.loc[idx, 'Salary']*model.skater[idx] 
+                                             for idx in DV_Index]) <= 50000)
+#Total of 9 Players Constraint
+model.cons_size = pe.Constraint(expr = sum(model.skater[idx] for idx in DV_Index) == 9)
 
+# Center Constraint
+model.cons_center = pe.Constraint(expr = sum([skater_pos.loc[idx, 'C'] * model.skater[idx] 
+                                             for idx in DV_Index]) >= 2)
+
+# Wing Constraint
+model.cons_wing = pe.Constraint(expr = sum([skater_pos.loc[idx, 'W'] * model.skater[idx] 
+                                             for idx in DV_Index]) >= 3)
+
+# Defence Constraint
+model.cons_defence = pe.Constraint(expr = sum([skater_pos.loc[idx, 'D'] * model.skater[idx] 
+                                             for idx in DV_Index]) >= 2)
+
+# Goalie Constraint
+model.cons_goalie = pe.Constraint(expr = sum([skater_pos.loc[idx, 'G'] * model.skater[idx] 
+                                             for idx in DV_Index]) == 1)
+    
+    
+#Team Constraints 3 or more teams
+     
+def team_rule(_, t):
+    return sum([skater_team.loc[idx, t] * model.skater[idx] for idx in DV_Index]) >= model.teams[t]
+
+def team(_):
+    return sum([model.teams[i] for i in DV_team_index]) >=3
+
+model.team_cons = pe.Constraint(model.team_set, rule = team_rule)
+
+```
+</details>
+ 
 <table>
   <tr>
     <th><b>Before</b></th>
