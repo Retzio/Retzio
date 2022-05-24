@@ -54,7 +54,7 @@ To see the full project including the build script, VB.Net forms, Power BI dashb
 <hr>
 
 ### Entity Relationship Diagram (ERD) for Database
-To view the build script for Maples Estate Investment's Database see
+To view the build script for Maples Estate Investment's Database see [BuildMapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/blob/main/BuildMapleEstateInvestments.sql)
 
 
 ![ERD_MapleEstInv](https://user-images.githubusercontent.com/105741175/169920126-8e87ba49-6122-492a-b163-367658509f5b.png)
@@ -64,8 +64,10 @@ To view the build script for Maples Estate Investment's Database see
 <hr>
 
 ### VB.NET
-Exp _________
+The forms were built on VB.Net framework to create a platform for the brokers to access the data and add any needed dataentries. The reports were created for the brokers to monitor data that is consitnly beig updating such as the MLS or loan rates for the investors. To view a more in depth explanation of each of the reports and download the solutions files for Visual Studios see 
+[VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments)
 
+Unmute the audio to hear further explanation in the video.
 
 https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94-aabc-191b5b193e67.mp4
 
@@ -75,7 +77,11 @@ https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94
 
 
 ### Power BI 
-Explanation
+The dashboard for Maple Estate Investments' database was built in Power BI and was created for management to view inportant metrics such as sales.
+To view the dashboard see
+[Maple Estate Investments Dashboard](https://app.powerbi.com/links/e7TcE2xLZZ?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288&pbi_source=linkShare)
+To download the .pbix view 
+[PowerBI_Dashboard_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/PowerBI_Dashboard_MapleEstateInvestments)
 
 
 ![PowerBI](https://user-images.githubusercontent.com/105741175/169918711-7b4952f0-0b93-4636-9632-166fb0b41d6e.png)
