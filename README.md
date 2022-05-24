@@ -193,8 +193,8 @@ For a copy of my resume, see
 ## Sales Expierence<a id=3.2></a>
 
 #### Clear home December 2020 – Present
-Market Development and Sales Training Specialist: Contracted by Amazon
-<div dir="rtl"> London, England </div>
+
+<div dir="lft">Market Development and Sales Training Specialist: Contracted by Amazon <div dir="rtl"> London, England </div>
 
 * Conducted R&D and Piloted Amazon’s expansion of the Key for Business program into England
 * Co-created sales processes and training material while also recruiting and training local sales representatives
@@ -203,24 +203,22 @@ Market Development and Sales Training Specialist: Contracted by Amazon
 
 ##
 
-Territory Sales Manager: Contracted by Amazon
-<div dir="rtl"> Phoenix, Arizona </div>
+<div dir="lft"> Territory Sales Manager: Contracted by Amazon <div dir="rtl"> Phoenix, Arizona </div>
 
 * Grew and managed a team of 8 people, developing personal and sales skills
 * Developed leadership and sales influence skills, learned how to effectively recruit, hire, and train employees
 * Led a team that sold 33,597 units with 279 commercial B2B accounts, and placed 2nd for quarter 3 of 2021
 
 ##
-Sales Specialist for Contract Negotiations: Contracted by Door Dash
-<div dir="rtl"> Los Angeles, California </div>
+
+<div dir="lft"> Sales Specialist for Contract Negotiations: Contracted by Door Dash <div dir="rtl"> Los Angeles, California </div>
 
 * As a top performer, was chosen to demo our team’s sales volume for Door Dash during contract negotiation
 * Worked with small business owners to onboard them to Door Dash
 
 ##
 
-Outside Sales Representative: Contracted by Amazon
-<div dir="rtl"> Denver, Colorado </div>
+<div dir="lft"> Outside Sales Representative: Contracted by Amazon <div dir="rtl"> Denver, Colorado </div>
 
 * Expanded my client acquisition and retention skills in B2B by conducting the full sales cycle for multiple accounts
 at a time with Amazon’s Key for Business, an IoT solution for residential real estate developments
@@ -230,10 +228,7 @@ strategies, which reduced time spent by 60% and increased conversion rates by 25
 ##
 #### Caliber Smart June 2020 – September 2020
 
-
-
-D2D Sales Representative
-<div dir="rtl"> Nashville, Tennessee </div>
+<div dir="lft"> *D2D Sales Representative* <div dir="rtl"> Nashville, Tennessee </div>
 
 * Sold 106 accounts in 3 months and achieved highest completion rate of 87% in the office
 * Achieved top rookie status both locally and nationally
@@ -247,9 +242,6 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <hr>
 
 ##### [Back to Top](#Top)
-
-
-
 
 
 
