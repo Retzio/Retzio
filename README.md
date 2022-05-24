@@ -11,7 +11,7 @@
 
 * [About Me](#1)<br>
 * [Samples of my work](#2)<br>
-  * [Database Project](#2.1)<br>
+  * [OLTP Database](#2.1)<br>
   * [Python](#2.2)<br>
 * [Resume](#3)<br>
     * [Skills](#3.1)<br>
@@ -40,12 +40,13 @@ In my freetime I like to
 # Samples of my work<a id=2></a>
 <hr>
 
-## SQL Database <a id=2.1></a>
+## OLTP Database <a id=2.1></a>
 
 ### Description
-This database I built is for a mock company called Maple Estate Investments. The company is a realestate brokerage that specializes in growing and managing realestate portfolios for investors. There are a few things that make Maple Estate Investments so unique. The company tracks the MLS and off market deals for any properties that good capitilazation rates and cash flow potential for investing. Maple Estate Investments also moniter investors current portfolio making sure all properties have good returns. If a home isn't performing well, they want to diversify, or they want to grow their portfoliuo we are able to conduct any transactions needed. The brokerage also tracks all current loans to factor in interest payments. If the investor qualifies for better laons based on thier goals we work heavily with loan officers to help them get the best possible loans. We meet with our investors regularly to discuss the current goals for theyre portfolio and risk they are willing to take, and based on those factors we take any needed actions to help them achieve thos goals as well.
 
-With all this informnation being analyzed and recorded, Maple Estate Investments needs a great database to store analyze all the data. That is why I built Maple_Estate_Investments_Database. I've included a build script for the database as well as views, stored procedures, and user-defined functions in Microsoft SQL Server Management Studios. I created forms and reports for the database in Microsoft Visual Studios to help track the database and add any data entries as needed. Lastly I created a dashboard for management to track ongoing sales and other inportant metrics in Power BI.
+This database I built is for a mock company called Maple Estate Investments. The company is a real estate brokerage that specializes in growing and managing real estate portfolios for investors. There are a few things that make Maple Estate Investments so unique. The company tracks the MLS and off-market deals for any properties that have good capitalization rates and cash flow potential for investing. Maple Estate Investments also monitor investors' current portfolio making sure all properties have good returns. If a home isn't performing well, they want to diversify, or they want to grow their portfolio we can conduct any transactions needed through the brokerage. The brokerage also tracks all current loans to factor in interest payments and amortization. If an investor qualifies for a better loan that is more aligned with their unique needs and goals, we work heavily with loan officers to help them get the best possible loans. We meet with our investors regularly to discuss the current goals for their portfolio and the amount of risk/return they are willing to take, and based on those factors we take any needed actions to help them achieve those goals.
+
+With all this information being recorded, stored, and analyzed, Maple Estate Investments needs a database. That is why I built Maple_Estate_Investments_Database. I've included a build script for the database as well as views, stored procedures, and user-defined functions in Microsoft SQL Server Management Studios. I created forms and reports for the database in Microsoft Visual Studios to help track the database and add data entries as needed. Lastly, I created a dashboard for management to track ongoing sales and other important metrics in Power BI.
 
 
 To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](https://github.com/Retzio/MapleEstateInvestments_Database)
@@ -53,7 +54,7 @@ To see the full project including the build script, VB.Net forms, Power BI dashb
 <hr>
 
 ### Entity Relationship Diagram (ERD) for Database
-To view the build script for Maples Estate Investment's Database see [BuildMapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/blob/main/BuildMapleEstateInvestments.sql)
+To view the build script for Maples Estate Investments' Database, see [BuildMapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/blob/main/BuildMapleEstateInvestments.sql)
 
 
 ![ERD_MapleEstInv](https://user-images.githubusercontent.com/105741175/169920126-8e87ba49-6122-492a-b163-367658509f5b.png)
@@ -62,8 +63,8 @@ To view the build script for Maples Estate Investment's Database see [BuildMaple
 
 <hr>
 
-### VB.NET
-The forms were built on VB.Net framework to create a platform for the brokers to access the data and add any needed dataentries. The reports were created for the brokers to monitor data that is consitnly beig updating such as the MLS or loan rates for the investors. To view a more in depth explanation of each of the reports and download the solutions files for Visual Studios see 
+### Microsoft Visual Studios VB.Net Forms and Reports 
+The forms and reports were built in Microsoft Visual Studios. The forms were built on VB.Net framework to create a platform for the brokers to access the data and add any needed data entries. The reports were created for the brokers to monitor data that is constantly being updated such as the MLS or loan rates for the investors. To view a more in-depth explanation of each of the reports and download the solutions files for Visual Studios see 
 [VS_Forms_Reports_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/VS_Forms_Reports_MapleEstateInvestments)
 
 Unmute the audio to hear further explanation in the video.
@@ -75,7 +76,7 @@ https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94
 
 
 
-### Power BI 
+### Power BI Dashboard
 The dashboard for Maple Estate Investments' database was built in Power BI and was created for management to view inportant metrics such as sales.
 To view the dashboard see
 [Maple Estate Investments Dashboard](https://app.powerbi.com/links/e7TcE2xLZZ?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288&pbi_source=linkShare)
