@@ -166,7 +166,7 @@ For a copy of my resume, see
  </tr>
  <tr>
    <td>
-     <ol>
+     <ul>
         <li>Inferential statistics</li>
         <li>Prediction</li>
         <li>Segmentation</li>
@@ -175,7 +175,7 @@ For a copy of my resume, see
         <li>Analytic visualization</li>
         <li>Data storytelling</li>
         <li>Business-technical interpretation and translation</li>
-     </ol>
+     </ul>
    </td>
    <td>
      <ul>
