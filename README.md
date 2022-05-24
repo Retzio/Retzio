@@ -143,8 +143,8 @@ model.team_cons = pe.Constraint(model.team_set, rule = team_rule)
  
 <table>
   <tr>
-    <th><b>Before</b></th>
-    <th><b>After</b></th>
+    <th><b>Predicted Optimal Lineup</b></th>
+    <th><b>Actual Optimal Lineup Based On the Games</b></th>
   </tr>
   <tr>
     <td><img src= "https://user-images.githubusercontent.com/105741175/169449698-fd577d19-55e8-4cb1-aaeb-0644400676e9.png" height="auto" width="auto"></td>
