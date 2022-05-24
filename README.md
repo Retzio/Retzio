@@ -115,11 +115,11 @@ To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/R
 
 # Resume <a id=3></a>
 Here is a copy of my
-[Resume](https://github.com/Retzio/Resume/blob/main/Retzio%20Gredig%20Resume.pdf)
+[Resume](https://github.com/Retzio/Resume/blob/main/Retzio_Gredig-Resume.pdf)
 
 
 
-[Retzio Gredig Resume.pdf](https://github.com/Retzio/Retzio/files/8763615/Retzio.Gredig.Resume.pdf)
+
 
 ## Sales Expierence<a id=3.1></a>
 
