@@ -190,9 +190,6 @@ For a copy of my resume, see
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/105741175/170077018-0ebd5636-dddc-4f57-8921-1d669e8fd0d6.png)
-
-
 ## Sales Expierence<a id=3.2></a>
 
 #### Clear home December 2020 – Present
