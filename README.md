@@ -15,8 +15,8 @@ Retzio Gredig
   * [Database Project](#2.1)<br>
   * [Python](#2.2)<br>
 * [Resume](#3)<br>
-    * [Sales Expierence](#3.1)<br>
-    * [Skills](#3.2)<br>
+    * [Skills](#3.1)<br>
+    * [Sales Expierence](#3.2)<br>
     * [Education](#3.3)<br>
   
 <br>
@@ -90,7 +90,7 @@ To download the .pbix view
 <hr>
 <br>
 
-
+##### [Back to Top](#Top)
 <hr>
 
 
@@ -132,11 +132,109 @@ Here is a copy of my
 
 
 
+## Skills <a id=3.1></a>
 
 
-## Sales Expierence<a id=3.1></a>
+<table>
+  <tr>
+    <th>Tools and Technical Skills</th>
+    <th>Certifications</th>
+  </tr>
+  <tr>
+    <td>
+     <ul>
+        <li>SQL</li>
+        <li>Visual Basic</li>
+        <li>Excel</li>
+        <li>Microsoft SQL Server Management Studio</li>
+        <li>Microsoft Visual Studio</li>
+        <li>Tableau</li>
+        <li>Trello</li>
+      </ul>
+    </td>
+    <td>
+     <ul>
+        <li><a href = "https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">Microsoft Expert Access 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/cc990015-1ddf-42e1-8924-71b24d236c37/public_url">Microsoft Associate Word 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
+       <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>CliftonStrengths (Fall 2018)</th>
+    <th>Other Skills</th>
+ </tr>
+ <tr>
+   <td>
+     <ol>
+        <li>Responsibility</li>
+        <li>Learner</li>
+        <li>Discipline</li>
+        <li>Developer</li>
+        <li>Achiever</li>
+     </ol>
+   </td>
+   <td>
+     <ul>
+        <li>Teaching</li>
+        <li>Facilitating</li>
+       <li>Problem Solving</li>
+     </ul>
+   </td>
+ </tr>
+</table>
 
-## Skills <a id=3.2></a>
+
+## Sales Expierence<a id=3.2></a>
+
+## Sales Expierence<a id=3.2></a>
+
+#### Clear home December 2020 – Present
+*Market Development and Sales Training Specialist: Contracted by Amazon*
+
+<div style="text-align: right"> London, England </div>
+
+* Conducted R&D and Piloted Amazon’s expansion of the Key for Business program into England
+* Co-created sales processes and training material while also recruiting and training local sales representatives
+* Presented Amazon’s Key for Business technology to property management teams, board members, and councils
+* Piloted the England expansion and establish 10% of the annual new accounts in two months
+
+
+*Territory Sales Manager: Contracted by Amazon* 
+<div style="text-align: right"> Phoenix, Arizona </div>
+
+* Grew and managed a team of 8 people, developing personal and sales skills
+* Developed leadership and sales influence skills, learned how to effectively recruit, hire, and train employees
+* Led a team that sold 33,597 units with 279 commercial B2B accounts, and placed 2nd for quarter 3 of 2021
+
+*Sales Specialist for Contract Negotiations: Contracted by Door Dash* 
+<div style="text-align: right"> Los Angeles, California </div>
+
+* As a top performer, was chosen to demo our team’s sales volume for Door Dash during contract negotiation
+* Worked with small business owners to onboard them to Door Dash
+
+
+*Outside Sales Representative: Contracted by Amazon*
+
+<div style="text-align: right"> Denver, Colorado </div>
+
+* Expanded my client acquisition and retention skills in B2B by conducting the full sales cycle for multiple accounts
+at a time with Amazon’s Key for Business, an IoT solution for residential real estate developments
+* Sold 16,826 units with 156 B2B accounts, placing 3rd in the company for quarter 3 and 18th for the 2021 year
+* Utilized a combination of my skills in data and sales to generate more efficient and effective lead generation
+strategies, which reduced time spent by 60% and increased conversion rates by 25%
+##
+#### Caliber Smart June 2020 – September 2020
+
+<div style="text-align: right"> Nashville, Tennessee </div>
+
+*D2D Sales Representative*
+* Sold 106 accounts in 3 months and achieved highest completion rate of 87% in the office
+* Achieved top rookie status both locally and nationally
+* Mastered pitching, tonality, and subtle sales techniques through the rawest form of sales
+
 
 ## Education<a id=3.3></a>
 ####  Univeristy of Denver, Daniels College of Business
