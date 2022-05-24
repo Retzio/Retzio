@@ -137,7 +137,7 @@ For a copy of my resume, see
 <table>
   <tr>
     <th>Coding Languages</th>
-    <th>Tools</th>
+    <th>Micrsoft Office Specialist Certifications</th>
   </tr>
   <tr>
     <td>
@@ -149,7 +149,7 @@ For a copy of my resume, see
         <li>VB.Net</li>
       </ul>
     </td>
-    <td  span="10">
+    <td>
      <ul>
         <li>Access</li>
         <li>Excel</li>
@@ -159,8 +159,8 @@ For a copy of my resume, see
     </td>
   </tr>
   <tr>
+    <th>Tools</th>
     <th>Data Anlysis and Presntation</th>
-    <th>Micrsoft Office Certifications</th>
  </tr>
  <tr>
    <td>
