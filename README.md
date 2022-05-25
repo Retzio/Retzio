@@ -4,10 +4,6 @@
 
 <hr>
 
-[T1](https://app.powerbi.com/links/e7TcE2xLZZ?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288&pbi_source=linkShare)
-[T2](https://app.powerbi.com/groups/me/reports/633b699c-1f4e-4fe1-9f3f-7b3509f47883/ReportSection?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288)
-
-
 ## Table of Contents
 
 
@@ -80,7 +76,7 @@ https://user-images.githubusercontent.com/105741175/169918503-df8368cc-5ce4-4b94
 ### Power BI Dashboard
 The dashboard for Maple Estate Investments' database was built in Power BI and was created for management to view inportant metrics such as sales.
 To view the dashboard, see
-[Maple Estate Investments Dashboard](https://app.powerbi.com/links/e7TcE2xLZZ?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288&pbi_source=linkShare).
+[Maple Estate Investments Dashboard](https://app.powerbi.com/groups/me/reports/633b699c-1f4e-4fe1-9f3f-7b3509f47883/ReportSection?ctid=6f3c7037-85c2-40e6-9dec-18b02d289288).
 To download the .pbix, see 
 [PowerBI_Dashboard_MapleEstateInvestments](https://github.com/Retzio/MapleEstateInvestments_Database/tree/main/PowerBI_Dashboard_MapleEstateInvestments).
 
