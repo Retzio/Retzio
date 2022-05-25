@@ -97,7 +97,7 @@ To download the .pbix, see
 ## Python<a id=2.2></a>
 ### Python GLPK Solver
 
-I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings NHL fatasy lineup contest you are a given a set of constrainst to build a fantasy team. To view all the rules, points, and contraints, see [DraftKings](https://www.draftkings.com/help/rules/3). Using GLPK I created the best posiible team based each player's current season stats. Becuase this was just for fun and based on a contest that had alreadt happened, I created a second lineup for what the best possible team would have been based on the games for the contest. The results for the predicted and actual optimal can be seen below.
+I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings NHL fatasy lineup contest you are a given a set of constrainst to build a fantasy team. To view all the rules, points, and contraints, see [DraftKings](https://www.draftkings.com/help/rules/3). Using GLPK I created the best posiible team based each player's current season stats. Because this was just for fun and based on a contest that had already happened, I created a second lineup for what the best possible team would have been based on the games for the contest. The results for the predicted and actual optimal can be seen below.
 
 To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team).
 
@@ -276,7 +276,7 @@ strategies, which reduced time spent by 60% and increased conversion rates by 25
 <hr>
  
 ## Education<a id=3.3></a>
-####  Univeristy of Denver, Daniels College of Business
+#### University of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2022
 
 <hr>
