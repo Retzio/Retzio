@@ -1,6 +1,6 @@
 <a id="Top"></a>
 
-# Weclome! This is a little about me and a sample of my work. 
+# Welcome! This is a little about me and a sample of my work. 
 
 <hr>
 
@@ -29,8 +29,8 @@ In my freetime I like to
 * Ski 
 * Play chess
 * Hike
-* Find new restruants to eat at
-* Expierence new things and meet new people
+* Find new restaurants to eat at
+* Experience new things and meet new people
 
 <br>
 <hr>
@@ -42,9 +42,9 @@ In my freetime I like to
 
 ### Description
 
-This database I built is for a mock company called Maple Estate Investments. The company is a real estate brokerage that specializes in growing and managing real estate portfolios for investors. There are a few things that make Maple Estate Investments so unique. The company tracks the MLS and off-market deals for any properties that have good capitalization rates and cash flow potential for investing. Maple Estate Investments also monitor investors' current portfolio making sure all properties have good returns. If a home isn't performing well, they want to diversify, or they want to grow their portfolio we can conduct any transactions needed through the brokerage. The brokerage also tracks all current loans to factor in interest payments and amortization. If an investor qualifies for a better loan that is more aligned with their unique needs and goals, we work heavily with loan officers to help them get the best possible loans. We meet with our investors regularly to discuss the current goals for their portfolio and the amount of risk/return they are willing to take, and based on those factors we take any needed actions to help them achieve those goals.
+This database that I built is for a mock company called Maple Estate Investments. The company is a real estate brokerage that specializes in growing and managing real estate portfolios for investors. There are a few things that make Maple Estate Investments so unique. To start, the company tracks the Multiple Listing Service (MLS) and off-market deals for any properties that have good capitalization rates and cash flow potential for investing. Maple Estate Investments also monitors investors' current portfolios, ensuring that all properties have good returns. If a home isn't performing well, an investor wants to diversify or grow their portfolio, Maple Estate Investments can conduct any transactions needed through the brokerage itself. The brokerage also tracks all current loans to factor in interest payments and amortization. If an investor qualifies for a better loan that is more aligned with their unique needs and goals, Maple Estates works heavily with loan officers to help them get the best possible loans. They meet with their investors regularly to discuss the current goals for their portfolio and the amount of risk/return they are willing to take. Maple Estate Investments uses foresight and planning to help their clients achieve their goals.
 
-With all this information being recorded, stored, and analyzed, Maple Estate Investments needs a database. That is why I built Maple_Estate_Investments_Database. I've included a build script for the database as well as views, stored procedures, and user-defined functions in Microsoft SQL Server Management Studios. I created forms and reports for the database in Microsoft Visual Studios to help track the database and add data entries as needed. Lastly, I created a dashboard for management to track ongoing sales and other important metrics in Power BI.
+With all this information being recorded, stored, and analyzed, Maple Estate Investments needs a database. That is why I built Maple_Estate_Investments_Database. I've included a build script for the database as well as views, stored procedures, and user-defined functions in Microsoft SQL Server Management Studios. I also created forms and reports for the database in Microsoft Visual Studios to help track the database and add data entries as needed. Lastly, I created a dashboard for management to track ongoing sales and other important metrics in Power BI.
 
 
 To see the full project including the build script, VB.Net forms, Power BI dashboard and more, see [Maple Estate Investments Database](https://github.com/Retzio/MapleEstateInvestments_Database).
@@ -95,7 +95,7 @@ To download the .pbix, see
 ## Python<a id=2.2></a>
 ### Python GLPK Solver
 
-I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings NHL fatasy lineup contest you are a given a set of constrainst to build a fantasy team. To view all the rules, points, and contraints, see [DraftKings](https://www.draftkings.com/help/rules/3). Using GLPK I created the best posiible team based each player's current season stats. Because this was just for fun and based on a contest that had already happened, I created a second lineup for what the best possible team would have been based on the games for the contest. The results for the predicted and actual optimal can be seen below.
+I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings NHL fatasy lineup contest a set of constrainst is given to build a fantasy team. To view all the rules, points, and contraints, see [DraftKings](https://www.draftkings.com/help/rules/3). Using GLPK I created the best possible team based each player's current season statistics. Because this was just for fun and based on a contest that had already happened, I created a second lineup for what the best possible team would have been based on the games for the contest. The results for the predicted and actual optimal lineup can be seen below.
 
 To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team).
 
