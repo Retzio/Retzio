@@ -100,7 +100,7 @@ I created a DraftKings NHL fantasy lineup using GLPK Solver. For the DraftKings 
 To view the full project, see [DraftKings_Fantasy_NHL_Team](https://github.com/Retzio/DraftKings_Fantasy_NHL_Team).
 
 <details>
-  <summary><b><i>Click here</i> to see the code for the constraints.!</b></summary>
+  <summary><b><i>Click here</i> to see the code for the constraints.</b></summary>
  
 ```python
 #Budget Constraint
